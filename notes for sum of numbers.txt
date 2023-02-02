@@ -1,0 +1,15 @@
+line 12 opening file to read the series of intergers
+
+
+
+total equals total which is 0. Then we are adding the number to it.
+total=total+number
+
+line 12 - It is opening the file to read the series of intergers
+
+
+
+line 14 - It is "for" loop that is defining line as the next string in the file 
+defined by infile and continuing until the end of the file. 
+
+line 17 - I am redefining the total by taking the total and adding the number to it. 
